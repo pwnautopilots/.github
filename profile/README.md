@@ -1,4 +1,4 @@
- ![alt text](images/classroom.png)
+ ![alt text](/images/classroom.png)
 
 **Autopilot and Digital Automation Development Project by PT PwnOsec Digital Technologies Ltd**
 The PwnAutopilots project aims to advance automation and autopilot systems through digital transformation. This repository hosts code, documentation, and resources dedicated to developing robust, scalable, and secure digital automation solutions.
